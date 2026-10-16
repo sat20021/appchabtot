@@ -1,0 +1,20 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "doc_001_0",
+      "doc_id": "doc_001",
+      "domain": "demo_domain",
+      "source_file": "sample.txt",
+      "content": "The core_rag project is a lightweight RAG baseline. It includes services for document storage, ingestion, and querying. The deterministic router handles intent classification and template responses. This demo shows how to ingest a file and query it using FAISS and SentenceTransformers.",
+      "metadata": {
+        "tags": [],
+        "description": "",
+        "uploaded_by": "user"
+      }
+    }
+  ],
+  "statistics": {
+    "total_chunks": 1,
+    "updated_at": "2025-11-21T05:08:40.905834"
+  }
+}

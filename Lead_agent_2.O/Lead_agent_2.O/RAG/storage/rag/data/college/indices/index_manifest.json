@@ -1,0 +1,144 @@
+{
+  "domain": "college",
+  "total_vectors": 27,
+  "embedding_dimension": 384,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "updated_at": "2025-12-31T10:54:53.126910",
+  "metadata_mapping": [
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_0",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_1",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_2",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_3",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_4",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_5",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_6",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_7",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "eb7710d887394a399c3da90acd4ec643_8",
+      "doc_id": "eb7710d887394a399c3da90acd4ec643",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_0",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_1",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_2",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_3",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_4",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_5",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_6",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_7",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "6b86e187375e420f826543811599191b_8",
+      "doc_id": "6b86e187375e420f826543811599191b",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_0",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_1",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_2",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_3",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_4",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_5",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_6",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_7",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    },
+    {
+      "chunk_id": "cbe837ed92464eb7a2419bea68167061_8",
+      "doc_id": "cbe837ed92464eb7a2419bea68167061",
+      "source_file": "College Documentation 2000.pdf"
+    }
+  ]
+}

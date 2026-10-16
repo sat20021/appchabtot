@@ -1,0 +1,134 @@
+{
+  "domain": "tech_domain",
+  "total_vectors": 25,
+  "embedding_dimension": 384,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "updated_at": "2025-11-21T12:19:58.517664",
+  "metadata_mapping": [
+    {
+      "chunk_id": "78d5cc128c484e25a4fae768e019967a_0",
+      "doc_id": "78d5cc128c484e25a4fae768e019967a",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "78d5cc128c484e25a4fae768e019967a_1",
+      "doc_id": "78d5cc128c484e25a4fae768e019967a",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "78d5cc128c484e25a4fae768e019967a_2",
+      "doc_id": "78d5cc128c484e25a4fae768e019967a",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "621fc1a0679345b2be83eab929eb31fc_0",
+      "doc_id": "621fc1a0679345b2be83eab929eb31fc",
+      "source_file": "ACADEMICS.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_0",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_1",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_2",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_3",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_4",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_5",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_6",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_7",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_8",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_9",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_10",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_11",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_12",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_13",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_14",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_15",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_16",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_17",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "f031146abfb34ec38db83892d879f2d0_18",
+      "doc_id": "f031146abfb34ec38db83892d879f2d0",
+      "source_file": "ess_portal_faq.csv"
+    },
+    {
+      "chunk_id": "fe3f6690863c419c8e9230e2e317e6d2_0",
+      "doc_id": "fe3f6690863c419c8e9230e2e317e6d2",
+      "source_file": "FAQs.csv"
+    },
+    {
+      "chunk_id": "667b2251cf2c46c191b1dcb6a290e49e_0",
+      "doc_id": "667b2251cf2c46c191b1dcb6a290e49e",
+      "source_file": "ADMISSIONS.csv"
+    }
+  ]
+}

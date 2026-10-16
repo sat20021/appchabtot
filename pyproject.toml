@@ -1,0 +1,15 @@
+[tool.pyright]
+extraPaths = [
+    "Lead_agent_2.O/Lead_agent_2.O",
+    "Lead_agent_2.O/Lead_agent_2.O/Machine_Learning/ML_models",
+    "Lead_agent_2.O/Lead_agent_2.O/faq_search_engine",
+    "Lead_agent_2.O/Lead_agent_2.O/RAG"
+]
+
+[tool.pylance]
+extraPaths = [
+    "Lead_agent_2.O/Lead_agent_2.O",
+    "Lead_agent_2.O/Lead_agent_2.O/Machine_Learning/ML_models",
+    "Lead_agent_2.O/Lead_agent_2.O/faq_search_engine",
+    "Lead_agent_2.O/Lead_agent_2.O/RAG"
+]

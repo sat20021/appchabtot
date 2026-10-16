@@ -1,0 +1,62 @@
+[
+  {
+    "title": "lead_questions",
+    "lead_category": "it_and_education",
+    "description": "Standard AlgoBridge Infotech lead qualification flow for clients and students",
+    "questions": {
+      "user_type": {
+        "name": "Are you looking for IT services for your business, or are you a student interested in internships?",
+        "type": "options",
+        "required": true,
+        "options": [
+          "IT Services for Business",
+          "Student Internship"
+        ],
+        "fallback": "IT Services or Internship?"
+      },
+      "name": {
+        "name": "Nice to meet you! What should we call you?",
+        "type": "text",
+        "required": true,
+        "fallback": "What is your name?"
+      },
+      "email": {
+        "name": "What's the best email to reach you?",
+        "type": "text",
+        "required": true,
+        "fallback": "Please share your email."
+      },
+      "phone": {
+        "name": "What number can our team contact you on?",
+        "type": "text",
+        "required": true,
+        "fallback": "Your phone number?"
+      },
+      "interest_area": {
+        "name": "Which area are you most interested in? (e.g., Web Development, Mobile Apps, AI/ML, Data Science)",
+        "type": "text",
+        "required": true,
+        "fallback": "What is your area of interest?"
+      },
+      "education_level": {
+        "name": "If you are a student, what is your current education level?",
+        "type": "options",
+        "required": false,
+        "options": [
+          "B.Tech/B.E.",
+          "BCA/MCA",
+          "Diploma",
+          "Other",
+          "Not applicable"
+        ],
+        "fallback": "Current education level?"
+      },
+      "project_requirements": {
+        "name": "If you are a business, could you briefly describe your project requirements? (If student, you can say skip)",
+        "type": "text",
+        "required": false,
+        "fallback": "Project requirements?"
+      }
+    }
+  }
+]

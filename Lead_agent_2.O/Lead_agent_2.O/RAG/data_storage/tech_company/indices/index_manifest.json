@@ -1,0 +1,819 @@
+{
+  "domain": "tech_company",
+  "total_vectors": 162,
+  "embedding_dimension": 384,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "updated_at": "2025-12-09T11:16:26.862238",
+  "metadata_mapping": [
+    {
+      "chunk_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179_0",
+      "doc_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179_1",
+      "doc_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179_2",
+      "doc_id": "c6fdb8fc70cb48f9a915a7d7fa0fa179",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_0",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_1",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_2",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_3",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_4",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_5",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_6",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_7",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_8",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_9",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_10",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "1564451d809f46f08b6484378b0441ec_11",
+      "doc_id": "1564451d809f46f08b6484378b0441ec",
+      "source_file": "Comprehensive_Planet_Compendium.pdf"
+    },
+    {
+      "chunk_id": "664c16027fa8471e8f6f81b58b7be613_0",
+      "doc_id": "664c16027fa8471e8f6f81b58b7be613",
+      "source_file": "ADMISSIONS.csv"
+    },
+    {
+      "chunk_id": "813c8da9c4724c28917525f2cb38b78e_0",
+      "doc_id": "813c8da9c4724c28917525f2cb38b78e",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "813c8da9c4724c28917525f2cb38b78e_1",
+      "doc_id": "813c8da9c4724c28917525f2cb38b78e",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "813c8da9c4724c28917525f2cb38b78e_2",
+      "doc_id": "813c8da9c4724c28917525f2cb38b78e",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "0cdd7954faab4e06b08ea74d6ed85309_0",
+      "doc_id": "0cdd7954faab4e06b08ea74d6ed85309",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "0cdd7954faab4e06b08ea74d6ed85309_1",
+      "doc_id": "0cdd7954faab4e06b08ea74d6ed85309",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "0cdd7954faab4e06b08ea74d6ed85309_2",
+      "doc_id": "0cdd7954faab4e06b08ea74d6ed85309",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "a22251d9ab924cb0bee39e021aebb2ef_0",
+      "doc_id": "a22251d9ab924cb0bee39e021aebb2ef",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "a22251d9ab924cb0bee39e021aebb2ef_1",
+      "doc_id": "a22251d9ab924cb0bee39e021aebb2ef",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "a22251d9ab924cb0bee39e021aebb2ef_2",
+      "doc_id": "a22251d9ab924cb0bee39e021aebb2ef",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "a22251d9ab924cb0bee39e021aebb2ef_3",
+      "doc_id": "a22251d9ab924cb0bee39e021aebb2ef",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "e8879cb2bc4445b78bdea3141d934ef4_0",
+      "doc_id": "e8879cb2bc4445b78bdea3141d934ef4",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "e8879cb2bc4445b78bdea3141d934ef4_1",
+      "doc_id": "e8879cb2bc4445b78bdea3141d934ef4",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "e8879cb2bc4445b78bdea3141d934ef4_2",
+      "doc_id": "e8879cb2bc4445b78bdea3141d934ef4",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "e8879cb2bc4445b78bdea3141d934ef4_3",
+      "doc_id": "e8879cb2bc4445b78bdea3141d934ef4",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "e8879cb2bc4445b78bdea3141d934ef4_4",
+      "doc_id": "e8879cb2bc4445b78bdea3141d934ef4",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "36e6e767e0294aac9c2bd96f295a076e_0",
+      "doc_id": "36e6e767e0294aac9c2bd96f295a076e",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "36e6e767e0294aac9c2bd96f295a076e_1",
+      "doc_id": "36e6e767e0294aac9c2bd96f295a076e",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "36e6e767e0294aac9c2bd96f295a076e_2",
+      "doc_id": "36e6e767e0294aac9c2bd96f295a076e",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "65315996177b4d3ea756ff712d2ba5b2_0",
+      "doc_id": "65315996177b4d3ea756ff712d2ba5b2",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "65315996177b4d3ea756ff712d2ba5b2_1",
+      "doc_id": "65315996177b4d3ea756ff712d2ba5b2",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "7a3d442bdb3c4591b262dd3b96889aee_0",
+      "doc_id": "7a3d442bdb3c4591b262dd3b96889aee",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "7a3d442bdb3c4591b262dd3b96889aee_1",
+      "doc_id": "7a3d442bdb3c4591b262dd3b96889aee",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "7a3d442bdb3c4591b262dd3b96889aee_2",
+      "doc_id": "7a3d442bdb3c4591b262dd3b96889aee",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "7a3d442bdb3c4591b262dd3b96889aee_3",
+      "doc_id": "7a3d442bdb3c4591b262dd3b96889aee",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "d8a0fb27a065401f9a7688086b9a7a08_0",
+      "doc_id": "d8a0fb27a065401f9a7688086b9a7a08",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "d8a0fb27a065401f9a7688086b9a7a08_1",
+      "doc_id": "d8a0fb27a065401f9a7688086b9a7a08",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "d8a0fb27a065401f9a7688086b9a7a08_2",
+      "doc_id": "d8a0fb27a065401f9a7688086b9a7a08",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "d8a0fb27a065401f9a7688086b9a7a08_3",
+      "doc_id": "d8a0fb27a065401f9a7688086b9a7a08",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "bae5c05b42ba4165ba0f3402c9060725_0",
+      "doc_id": "bae5c05b42ba4165ba0f3402c9060725",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "bae5c05b42ba4165ba0f3402c9060725_1",
+      "doc_id": "bae5c05b42ba4165ba0f3402c9060725",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "bae5c05b42ba4165ba0f3402c9060725_2",
+      "doc_id": "bae5c05b42ba4165ba0f3402c9060725",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "bae5c05b42ba4165ba0f3402c9060725_3",
+      "doc_id": "bae5c05b42ba4165ba0f3402c9060725",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "40a3239cd1a64d7faee6f621496bcdeb_0",
+      "doc_id": "40a3239cd1a64d7faee6f621496bcdeb",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "40a3239cd1a64d7faee6f621496bcdeb_1",
+      "doc_id": "40a3239cd1a64d7faee6f621496bcdeb",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "40a3239cd1a64d7faee6f621496bcdeb_2",
+      "doc_id": "40a3239cd1a64d7faee6f621496bcdeb",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "40a3239cd1a64d7faee6f621496bcdeb_3",
+      "doc_id": "40a3239cd1a64d7faee6f621496bcdeb",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "40a3239cd1a64d7faee6f621496bcdeb_4",
+      "doc_id": "40a3239cd1a64d7faee6f621496bcdeb",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "6509945ba0724b498a382adc950e9aef_0",
+      "doc_id": "6509945ba0724b498a382adc950e9aef",
+      "source_file": "EnterpriseAI Website - Company.docx"
+    },
+    {
+      "chunk_id": "6509945ba0724b498a382adc950e9aef_1",
+      "doc_id": "6509945ba0724b498a382adc950e9aef",
+      "source_file": "EnterpriseAI Website - Company.docx"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_0",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_1",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_2",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_3",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_4",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "2c21a76bcb6549b3b2fb23d51c25c4c9_5",
+      "doc_id": "2c21a76bcb6549b3b2fb23d51c25c4c9",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "0c259d33512f42bb9c4c0cb9c7a13ffc_0",
+      "doc_id": "0c259d33512f42bb9c4c0cb9c7a13ffc",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "0c259d33512f42bb9c4c0cb9c7a13ffc_1",
+      "doc_id": "0c259d33512f42bb9c4c0cb9c7a13ffc",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "0c259d33512f42bb9c4c0cb9c7a13ffc_2",
+      "doc_id": "0c259d33512f42bb9c4c0cb9c7a13ffc",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "cea28117d003475aa2d782eeac534d97_0",
+      "doc_id": "cea28117d003475aa2d782eeac534d97",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "cea28117d003475aa2d782eeac534d97_1",
+      "doc_id": "cea28117d003475aa2d782eeac534d97",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "cea28117d003475aa2d782eeac534d97_2",
+      "doc_id": "cea28117d003475aa2d782eeac534d97",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "fe986816a4d2430691c967239bba59cf_0",
+      "doc_id": "fe986816a4d2430691c967239bba59cf",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "fe986816a4d2430691c967239bba59cf_1",
+      "doc_id": "fe986816a4d2430691c967239bba59cf",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "fe986816a4d2430691c967239bba59cf_2",
+      "doc_id": "fe986816a4d2430691c967239bba59cf",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "2df23e82a9554e08bffcb715af7852a5_0",
+      "doc_id": "2df23e82a9554e08bffcb715af7852a5",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "2df23e82a9554e08bffcb715af7852a5_1",
+      "doc_id": "2df23e82a9554e08bffcb715af7852a5",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "2df23e82a9554e08bffcb715af7852a5_2",
+      "doc_id": "2df23e82a9554e08bffcb715af7852a5",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "2df23e82a9554e08bffcb715af7852a5_3",
+      "doc_id": "2df23e82a9554e08bffcb715af7852a5",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "953d75360e864abda0fae30b26800665_0",
+      "doc_id": "953d75360e864abda0fae30b26800665",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "953d75360e864abda0fae30b26800665_1",
+      "doc_id": "953d75360e864abda0fae30b26800665",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "953d75360e864abda0fae30b26800665_2",
+      "doc_id": "953d75360e864abda0fae30b26800665",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "953d75360e864abda0fae30b26800665_3",
+      "doc_id": "953d75360e864abda0fae30b26800665",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "953d75360e864abda0fae30b26800665_4",
+      "doc_id": "953d75360e864abda0fae30b26800665",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "082d583144094e75a50fe6f78a8012e1_0",
+      "doc_id": "082d583144094e75a50fe6f78a8012e1",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "082d583144094e75a50fe6f78a8012e1_1",
+      "doc_id": "082d583144094e75a50fe6f78a8012e1",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "082d583144094e75a50fe6f78a8012e1_2",
+      "doc_id": "082d583144094e75a50fe6f78a8012e1",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "1eecb56a2c4e47528ff842f6f545791d_0",
+      "doc_id": "1eecb56a2c4e47528ff842f6f545791d",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "1eecb56a2c4e47528ff842f6f545791d_1",
+      "doc_id": "1eecb56a2c4e47528ff842f6f545791d",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "d00ce2cf59474e12a9198d2f38f8eba9_0",
+      "doc_id": "d00ce2cf59474e12a9198d2f38f8eba9",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "d00ce2cf59474e12a9198d2f38f8eba9_1",
+      "doc_id": "d00ce2cf59474e12a9198d2f38f8eba9",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "d00ce2cf59474e12a9198d2f38f8eba9_2",
+      "doc_id": "d00ce2cf59474e12a9198d2f38f8eba9",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "d00ce2cf59474e12a9198d2f38f8eba9_3",
+      "doc_id": "d00ce2cf59474e12a9198d2f38f8eba9",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "0b162692007c4d22a61ace044e2a8048_0",
+      "doc_id": "0b162692007c4d22a61ace044e2a8048",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "0b162692007c4d22a61ace044e2a8048_1",
+      "doc_id": "0b162692007c4d22a61ace044e2a8048",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "0b162692007c4d22a61ace044e2a8048_2",
+      "doc_id": "0b162692007c4d22a61ace044e2a8048",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "0b162692007c4d22a61ace044e2a8048_3",
+      "doc_id": "0b162692007c4d22a61ace044e2a8048",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "b7e37e25850a463e89b5549224e88ea1_0",
+      "doc_id": "b7e37e25850a463e89b5549224e88ea1",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "b7e37e25850a463e89b5549224e88ea1_1",
+      "doc_id": "b7e37e25850a463e89b5549224e88ea1",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "b7e37e25850a463e89b5549224e88ea1_2",
+      "doc_id": "b7e37e25850a463e89b5549224e88ea1",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "b7e37e25850a463e89b5549224e88ea1_3",
+      "doc_id": "b7e37e25850a463e89b5549224e88ea1",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "525e9210b0ba4e4c9e5d9d349398744c_0",
+      "doc_id": "525e9210b0ba4e4c9e5d9d349398744c",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "525e9210b0ba4e4c9e5d9d349398744c_1",
+      "doc_id": "525e9210b0ba4e4c9e5d9d349398744c",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "525e9210b0ba4e4c9e5d9d349398744c_2",
+      "doc_id": "525e9210b0ba4e4c9e5d9d349398744c",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "525e9210b0ba4e4c9e5d9d349398744c_3",
+      "doc_id": "525e9210b0ba4e4c9e5d9d349398744c",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "525e9210b0ba4e4c9e5d9d349398744c_4",
+      "doc_id": "525e9210b0ba4e4c9e5d9d349398744c",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_0",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_1",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_2",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_3",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_4",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "55e86e3129364029b690d2c2013b5a08_5",
+      "doc_id": "55e86e3129364029b690d2c2013b5a08",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "847efac8468842ee8a25103adfeb4842_0",
+      "doc_id": "847efac8468842ee8a25103adfeb4842",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "847efac8468842ee8a25103adfeb4842_1",
+      "doc_id": "847efac8468842ee8a25103adfeb4842",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "847efac8468842ee8a25103adfeb4842_2",
+      "doc_id": "847efac8468842ee8a25103adfeb4842",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "84595e6810364c9b9164654c8df3b472_0",
+      "doc_id": "84595e6810364c9b9164654c8df3b472",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "84595e6810364c9b9164654c8df3b472_1",
+      "doc_id": "84595e6810364c9b9164654c8df3b472",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "84595e6810364c9b9164654c8df3b472_2",
+      "doc_id": "84595e6810364c9b9164654c8df3b472",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "1e7f7cd159e849e1a14075efa49879e1_0",
+      "doc_id": "1e7f7cd159e849e1a14075efa49879e1",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "1e7f7cd159e849e1a14075efa49879e1_1",
+      "doc_id": "1e7f7cd159e849e1a14075efa49879e1",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "1e7f7cd159e849e1a14075efa49879e1_2",
+      "doc_id": "1e7f7cd159e849e1a14075efa49879e1",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "5be9ae9f0386415a914309793c438992_0",
+      "doc_id": "5be9ae9f0386415a914309793c438992",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "5be9ae9f0386415a914309793c438992_1",
+      "doc_id": "5be9ae9f0386415a914309793c438992",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "5be9ae9f0386415a914309793c438992_2",
+      "doc_id": "5be9ae9f0386415a914309793c438992",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "5be9ae9f0386415a914309793c438992_3",
+      "doc_id": "5be9ae9f0386415a914309793c438992",
+      "source_file": "EnterpriseAI4.pdf"
+    },
+    {
+      "chunk_id": "cb021c95f29d4a27900d4510501d7c5f_0",
+      "doc_id": "cb021c95f29d4a27900d4510501d7c5f",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "cb021c95f29d4a27900d4510501d7c5f_1",
+      "doc_id": "cb021c95f29d4a27900d4510501d7c5f",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "cb021c95f29d4a27900d4510501d7c5f_2",
+      "doc_id": "cb021c95f29d4a27900d4510501d7c5f",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "cb021c95f29d4a27900d4510501d7c5f_3",
+      "doc_id": "cb021c95f29d4a27900d4510501d7c5f",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "cb021c95f29d4a27900d4510501d7c5f_4",
+      "doc_id": "cb021c95f29d4a27900d4510501d7c5f",
+      "source_file": "EnterpriseAI5.pdf"
+    },
+    {
+      "chunk_id": "02ba37d4db8c488b994b53b0d2a0f204_0",
+      "doc_id": "02ba37d4db8c488b994b53b0d2a0f204",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "02ba37d4db8c488b994b53b0d2a0f204_1",
+      "doc_id": "02ba37d4db8c488b994b53b0d2a0f204",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "02ba37d4db8c488b994b53b0d2a0f204_2",
+      "doc_id": "02ba37d4db8c488b994b53b0d2a0f204",
+      "source_file": "EnterpriseAI6.pdf"
+    },
+    {
+      "chunk_id": "a509ccb330b2474aa0cca42ffe312af5_0",
+      "doc_id": "a509ccb330b2474aa0cca42ffe312af5",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "a509ccb330b2474aa0cca42ffe312af5_1",
+      "doc_id": "a509ccb330b2474aa0cca42ffe312af5",
+      "source_file": "EnterpriseAI7.pdf"
+    },
+    {
+      "chunk_id": "51f144e2979c4f90b31b907f593ce4d0_0",
+      "doc_id": "51f144e2979c4f90b31b907f593ce4d0",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "51f144e2979c4f90b31b907f593ce4d0_1",
+      "doc_id": "51f144e2979c4f90b31b907f593ce4d0",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "51f144e2979c4f90b31b907f593ce4d0_2",
+      "doc_id": "51f144e2979c4f90b31b907f593ce4d0",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "51f144e2979c4f90b31b907f593ce4d0_3",
+      "doc_id": "51f144e2979c4f90b31b907f593ce4d0",
+      "source_file": "EnterpriseAI8.pdf"
+    },
+    {
+      "chunk_id": "e2e2213294bc426a8929f228cffdd691_0",
+      "doc_id": "e2e2213294bc426a8929f228cffdd691",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "e2e2213294bc426a8929f228cffdd691_1",
+      "doc_id": "e2e2213294bc426a8929f228cffdd691",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "e2e2213294bc426a8929f228cffdd691_2",
+      "doc_id": "e2e2213294bc426a8929f228cffdd691",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "e2e2213294bc426a8929f228cffdd691_3",
+      "doc_id": "e2e2213294bc426a8929f228cffdd691",
+      "source_file": "EnterpriseAI9.pdf"
+    },
+    {
+      "chunk_id": "e9b8b4ff1e8a4602b44eb2603feb6434_0",
+      "doc_id": "e9b8b4ff1e8a4602b44eb2603feb6434",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "e9b8b4ff1e8a4602b44eb2603feb6434_1",
+      "doc_id": "e9b8b4ff1e8a4602b44eb2603feb6434",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "e9b8b4ff1e8a4602b44eb2603feb6434_2",
+      "doc_id": "e9b8b4ff1e8a4602b44eb2603feb6434",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "e9b8b4ff1e8a4602b44eb2603feb6434_3",
+      "doc_id": "e9b8b4ff1e8a4602b44eb2603feb6434",
+      "source_file": "EnterpriseAI10.pdf"
+    },
+    {
+      "chunk_id": "cb340081d0cb46dfbff171d91d24cade_0",
+      "doc_id": "cb340081d0cb46dfbff171d91d24cade",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "cb340081d0cb46dfbff171d91d24cade_1",
+      "doc_id": "cb340081d0cb46dfbff171d91d24cade",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "cb340081d0cb46dfbff171d91d24cade_2",
+      "doc_id": "cb340081d0cb46dfbff171d91d24cade",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "cb340081d0cb46dfbff171d91d24cade_3",
+      "doc_id": "cb340081d0cb46dfbff171d91d24cade",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "cb340081d0cb46dfbff171d91d24cade_4",
+      "doc_id": "cb340081d0cb46dfbff171d91d24cade",
+      "source_file": "EnterpriseAI11.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_0",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_1",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_2",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_3",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_4",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "edd9a2dd2cf54c0c954c49d172a8116b_5",
+      "doc_id": "edd9a2dd2cf54c0c954c49d172a8116b",
+      "source_file": "EnterpriseAI.pdf"
+    },
+    {
+      "chunk_id": "232089fef6854575b259dba4178fbaa3_0",
+      "doc_id": "232089fef6854575b259dba4178fbaa3",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "232089fef6854575b259dba4178fbaa3_1",
+      "doc_id": "232089fef6854575b259dba4178fbaa3",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "232089fef6854575b259dba4178fbaa3_2",
+      "doc_id": "232089fef6854575b259dba4178fbaa3",
+      "source_file": "EnterpriseAI1.pdf"
+    },
+    {
+      "chunk_id": "db31e163d3824c30a85f6d13dbe8d059_0",
+      "doc_id": "db31e163d3824c30a85f6d13dbe8d059",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "db31e163d3824c30a85f6d13dbe8d059_1",
+      "doc_id": "db31e163d3824c30a85f6d13dbe8d059",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "db31e163d3824c30a85f6d13dbe8d059_2",
+      "doc_id": "db31e163d3824c30a85f6d13dbe8d059",
+      "source_file": "EnterpriseAI2.pdf"
+    },
+    {
+      "chunk_id": "9199dc298fd14849a4aec87c31d1d1ad_0",
+      "doc_id": "9199dc298fd14849a4aec87c31d1d1ad",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "9199dc298fd14849a4aec87c31d1d1ad_1",
+      "doc_id": "9199dc298fd14849a4aec87c31d1d1ad",
+      "source_file": "EnterpriseAI3.pdf"
+    },
+    {
+      "chunk_id": "9199dc298fd14849a4aec87c31d1d1ad_2",
+      "doc_id": "9199dc298fd14849a4aec87c31d1d1ad",
+      "source_file": "EnterpriseAI3.pdf"
+    }
+  ]
+}

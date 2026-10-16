@@ -1,0 +1,14 @@
+{
+  "domain": "demo_domain",
+  "total_vectors": 1,
+  "embedding_dimension": 384,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "updated_at": "2025-11-21T05:08:40.908835",
+  "metadata_mapping": [
+    {
+      "chunk_id": "doc_001_0",
+      "doc_id": "doc_001",
+      "source_file": "sample.txt"
+    }
+  ]
+}

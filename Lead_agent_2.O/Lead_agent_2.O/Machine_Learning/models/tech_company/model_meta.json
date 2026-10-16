@@ -1,0 +1,16 @@
+{
+  "embed_model": "all-MiniLM-L6-v2",
+  "label2idx": {
+    "gratitude": 0,
+    "greeting": 1,
+    "lead_collection": 2
+  },
+  "idx2label": {
+    "0": "gratitude",
+    "1": "greeting",
+    "2": "lead_collection"
+  },
+  "training_date": "2025-12-09T11:55:10.676773Z",
+  "accuracy": 0.9966666666666667,
+  "num_intents": 3
+}
